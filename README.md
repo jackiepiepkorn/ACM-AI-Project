@@ -10,3 +10,6 @@ We started with the MNIST dataset due to its simplicity, and from there worked o
 
 ## Dataset
 https://www.kaggle.com/gpiosenka/100-bird-species
+
+## Presentation
+https://docs.google.com/presentation/d/1GuyMpzuYeYe4LzmRiWOWcPN_PLAKh3_VB3orFqn3pJ4/edit?usp=sharing
