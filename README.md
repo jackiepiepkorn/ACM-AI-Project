@@ -1,8 +1,8 @@
 # ACM AI Bird Classifier Project
 
-ACM AI Project FA21
+**ACM AI Project FA21**
 
-Team Coleslaw
+**Team Coleslaw**
 
 The ultimate goal of this project was to develop a model that would be able to classify between different species of birds. We utilized a Kaggle dataset for this, which split the data into training, validation, and test sets for our use.
 
